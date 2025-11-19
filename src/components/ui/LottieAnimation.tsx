@@ -18,7 +18,7 @@ interface LottieAnimationProps {
 
 const Player = dynamic(
   () => import("@lottiefiles/react-lottie-player").then((mod) => mod.Player),
-  { ssr: false, suspense: true }
+  { ssr: false }
 );
 
 function PlayerWrapper({
