@@ -162,11 +162,6 @@ const socialChannels = [
 
 const faqItems = [
   {
-    question: "Por que o ebook é em caixa alta?",
-    answer:
-      "Porque queremos que a mensagem fique gravada. A cada leitura você reforça o compromisso de pagar apenas o justo pela sua conta de água.",
-  },
-  {
     question: "O conteúdo serve apenas para São Paulo?",
     answer:
       "Apesar do foco na SABESP, a estrutura da fatura é semelhante em todo o Brasil. Você poderá adaptar rapidamente para outras companhias.",
